@@ -35,3 +35,10 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Application secrets ###
+application-local.yaml
+application-local.yml
+application-local.properties
+.env
+docker-compose.yml
